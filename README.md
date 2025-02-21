@@ -105,6 +105,48 @@ Our tool supports skins for **ALL champions**! This includes:
 - Introduced **new chroma variations** for custom skins.
 - Enhanced **custom VFX support**.
 
+### v11.3
+- Added **multi-language support**.
+- Improved **performance optimization**.
+
+### v10.7
+- Fixed **compatibility issues** with older Windows versions.
+- Enhanced **custom animation support**.
+
+### v9.5
+- Optimized **memory usage** for better FPS performance.
+- Added **new rare skins collection**.
+
+### v8.1
+- Enhanced **AI detection avoidance techniques**.
+- Improved **user interface** for better accessibility.
+
+### v7.4
+- Fixed **minor UI bugs** and improved **customization options**.
+- Introduced **support for newly released skins**.
+
+### v6.0
+- Added **real-time skin swapping** without game restart.
+- Improved **stability and reliability** of the tool.
+
+### v5.5
+- Enhanced **chroma swapping technology**.
+- Fixed **rare crashes** during skin application.
+
+### v4.3
+- Introduced **automatic update system**.
+- Improved **skin texture rendering** for better visuals.
+
+### v3.0
+- Redesigned **entire UI** for a more modern look.
+- Improved **compatibility with all game regions**.
+
+### v2.5
+- Added **custom sound effects** for specific skins.
+- Enhanced **support for older LoL versions**.
+
+### v1.0
+- Initial release with **basic skin changing functionality**.
 ---
 
 ## 🔍 Feature Comparison
