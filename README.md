@@ -151,7 +151,7 @@ Our tool supports skins for **ALL champions**! This includes:
 
 ## 🔍 Feature Comparison
 
-| Feature                | LoL Skin Changer 2025 | Free Alternatives |
+| Feature                | LoL Skin Changer 2025 | Alternatives |
 |------------------------|:--------------------:|:-----------------:|
 | **All Champions Supported** | ✅ | ❌ |
 | **Undetectable Security** | ✅ | ❌ |
